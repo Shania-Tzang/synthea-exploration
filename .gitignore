@@ -1,0 +1,3 @@
+# Simple gitignore for the project
+venv
+*.pdf
